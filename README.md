@@ -1,7 +1,7 @@
 # scuba-php
 Project being developed for #7DaysOfCode. PHP challenge
 
-Currently on Day 1
+Currently on Day 2
 
 # About the project
 
